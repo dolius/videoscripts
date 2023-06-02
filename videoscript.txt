@@ -1,4 +1,18 @@
-Here a little trick:
-display grid.
-tyope class grid and then voila.
-yiou go ti.
+Check out this funky trick:
+Embrace the power of display grid,
+Say goodbye to Bootstrap's bullshit.
+We're going modern, my man,
+With layouts that won't drive you insane.
+see hiow sick this is,
+Just add a property called "grid," to a div for example.  you see,
+And watch the magic happen effortlessly.
+Define your grid columns and rows,
+In different units, the choice is yours to pose.
+Can you feel the awesomeness in the air?
+Grid layouts have never been so fair.
+So go ahead, give it a try,
+And let your designs reach for the sky.
+You got this, my creative mate,
+
+
+
