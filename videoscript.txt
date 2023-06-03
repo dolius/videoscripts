@@ -14,5 +14,17 @@ So go ahead, give it a try,
 And let your designs reach for the sky.
 You got this, my creative mate,
 
+---
+
+ok lets nerd up on this one and do a mini project, 
+the trick here is type=color
+here we want a color picker, super easy shit.
+tyhis is how we do it.
+so you want to suck less at HTML and CSS?
+Open a fricking code editor like code pen
+create an input field in html, 
+and give it, type color;
+that's all it is,
+have fun with this trick.
 
 
